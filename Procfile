@@ -1,1 +1,1 @@
-worker: node bashi.js
+worker: node bot.js
